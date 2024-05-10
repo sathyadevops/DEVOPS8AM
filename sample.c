@@ -1,4 +1,19 @@
 
+void Add()
+{
+  C=A+B
+}
+void Sub()
+{
+  c=A-B
+}
+
+
+
+
+
+
+
 void MAIN-CODE
 {
   ****** MAIN CODE ******
