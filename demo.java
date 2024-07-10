@@ -5,8 +5,13 @@ void Main-code
    ::::: MAIN CODE :::::
    ::::: MAIN CODE :::::
 }
-
-
+void BRANCH-CODE 
+{
+   ***** BRANCH CODE ******
+   ***** BRANCH CODE ******
+   ***** BRANCH CODE ******
+   ***** BRANCH CODE ******
+}
 
 class Demo
 {
