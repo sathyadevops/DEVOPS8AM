@@ -1,3 +1,10 @@
+void ADD()
+{
+  C=A+B
+}
+
+
+
 void main()
 {
   printf(" Hello World!")
