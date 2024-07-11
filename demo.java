@@ -7,6 +7,11 @@ class Bank
      bal = bal + amount;
    }	   
 
+   void Withdraw()
+   {
+     bal = bal - amount;
+   }	   
+
    public static void main(..)
    {
      System.out.println(" Bank code");
