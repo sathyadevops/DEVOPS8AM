@@ -1,3 +1,20 @@
+
+void DevOps Tools
+{
+  * ANSIBLE 
+  * ANSIBLE 
+  * ANSIBLE 
+  * ANSIBLE 
+  * ANSIBLE 
+}
+
+
+
+
+
+
+
+
 void ADD()
 {
   C=A+B
