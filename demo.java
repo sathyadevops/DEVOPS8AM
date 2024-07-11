@@ -1,3 +1,56 @@
+
+class Bank
+{
+
+   void Deposite()
+   {
+     bal = bal + amount;
+   }	   
+
+   public static void main(..)
+   {
+     System.out.println(" Bank code");
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void Main-code
 {
    ::::: MAIN CODE :::::
